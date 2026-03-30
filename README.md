@@ -8,7 +8,7 @@
 
 ## Profile
 
-Second-year Computer Science student at Dayananda Sagar University with hands-on experience in GPU-accelerated computing, multi-agent AI systems, and production-grade open source development. Active contributor to NVIDIA RAPIDS (cuDF) with two merged pull requests, and ongoing contributor to AiiDA. Building a FastMCP-based multi-agent system for natural language interaction with scientific workflow engines. Comfortable navigating large C++/Python codebases, writing tests, and handling multi-iteration code review.
+Second-year Computer Science student with hands-on experience in GPU-accelerated computing, multi-agent AI systems, and production-grade open source development. Active contributor to NVIDIA RAPIDS (cuDF) with two merged pull requests, and ongoing contributor to AiiDA. Building a FastMCP-based multi-agent system for natural language interaction with scientific workflow engines. Comfortable navigating large C++/Python codebases, writing tests, and handling multi-iteration code review.
 
 ---
 
